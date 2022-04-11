@@ -1,0 +1,14 @@
+name: ligo
+channels:
+  - javascript
+dependencies:
+  - python=2.7
+  - h5py
+  - matplotlib
+  - scipy
+  - decorator=4.4
+  - ipykernel
+  - IPython
+  
+  
+  
